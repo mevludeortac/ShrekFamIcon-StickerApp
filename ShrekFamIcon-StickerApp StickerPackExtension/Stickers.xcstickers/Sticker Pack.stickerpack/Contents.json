@@ -1,9 +1,38 @@
 {
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   },
   "properties" : {
     "grid-size" : "regular"
-  }
+  },
+  "stickers" : [
+    {
+      "filename" : "fionagang.sticker"
+    },
+    {
+      "filename" : "WolfAndPigs.sticker"
+    },
+    {
+      "filename" : "shrekgang.sticker"
+    },
+    {
+      "filename" : "shrek1.sticker"
+    },
+    {
+      "filename" : "shrek2.sticker"
+    },
+    {
+      "filename" : "cat.sticker"
+    },
+    {
+      "filename" : "fiona1.sticker"
+    },
+    {
+      "filename" : "donkey.sticker"
+    },
+    {
+      "filename" : "fiona2.sticker"
+    }
+  ]
 }
